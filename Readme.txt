@@ -1,2 +1,3 @@
 Just collection of my personal developments and references
-As always
+As always 
+stay awesome
